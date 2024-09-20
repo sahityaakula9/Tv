@@ -6,6 +6,11 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("hello tv");
         System.out.println("hello sahitya madam ");
+<<<<<<< HEAD
         System.out.println("hello kiran sir and sahitya");
+=======
+        System.out.println("hello kiran sir");
+        System.out.println("hello shrinidhi");
+>>>>>>> 9a969d1 (add shree)
     }
 }
